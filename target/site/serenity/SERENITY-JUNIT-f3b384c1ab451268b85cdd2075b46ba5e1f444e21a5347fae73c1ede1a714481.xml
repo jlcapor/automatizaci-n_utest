@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="User registration in Utest" skipped="0" tests="1" time="0.42" timestamp="2022-08-20 12:39:05"><testcase name="Utest page"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+co.com.challenge.utest.user.stepdefinitions.UtestStepDefinition.thatJoseLuisWishesToRegisterOnTheUtestPage(UtestStepDefinition.java:17)&#13;
+✽.that Jose Luis wishes to register on the Utest page(src/test/resources/features/userRegister.feature:7)&#13;
+</system-err></testcase></testsuite>
